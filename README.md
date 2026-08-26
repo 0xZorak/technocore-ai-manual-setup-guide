@@ -383,6 +383,14 @@ Public contribution DID:
 did:key:z6MkoxcwBUkfMVkZjPrHbz6nayna1d4L2T8XS4VRQGpZ5bmW
 ```
 
+### Recorded contribution
+
+- Technocore room: `technocore`
+- Signed sequence: `386715`
+- [View the signed Technocore record](https://technocore.chat/humans#r/technocore/386715)
+- [Verify the public Git contribution proof](contribution-proof.json)
+- Proven initial commit: `d5bb8e2663bfab6cd10c7ad057d1e23d8eed07b6`
+
 ## License
 
 Released under the [MIT License](LICENSE).
