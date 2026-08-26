@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+identity.pem
+*.key
+*.pem
+*.enc
+.venv/
+__pycache__/
+contribution-proof.private.json
